@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/foodbackground"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_marginTop="80dp"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/foodies"
+            android:layout_gravity="center"
+            android:layout_marginBottom="90dp"
+            />
+        <TextView
+            android:textSize="40dp"
+            android:text="MANAGER SERVER"
+            android:textStyle="italic|bold"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:textColor="@android:color/holo_blue_bright"
+            android:gravity="center"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:weightSum="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_button"
+            android:text="signin"
+            android:id="@+id/btnsignin"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "574707587143",
+    "firebase_url": "https://androideat-b40b2.firebaseio.com",
+    "project_id": "androideat-b40b2",
+    "storage_bucket": "androideat-b40b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574707587143:android:6510c6322fc41e80c37962",
+        "android_client_info": {
+          "package_name": "com.example.foodproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574707587143-lrh10srhfpbajbccto822tejv1baebb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodproject",
+            "certificate_hash": "b76a930e3f7f230661c20921561de6a59478afaa"
+          }
+        },
+        {
+          "client_id": "574707587143-h4u2hu4j7i90elfv9n0f0isdvsmfkmj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3j8utB5p65tkUoBR66zTE8X8gfWm1l9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574707587143-h4u2hu4j7i90elfv9n0f0isdvsmfkmj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574707587143:android:1268248dca9be8d5c37962",
+        "android_client_info": {
+          "package_name": "com.example.foodservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574707587143-7hrorpb97hcjrgvotai3ta0pfgr7am45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodservice",
+            "certificate_hash": "8fb7de107ccb0c075087f17edf13dce5f6b30f9f"
+          }
+        },
+        {
+          "client_id": "574707587143-h4u2hu4j7i90elfv9n0f0isdvsmfkmj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3j8utB5p65tkUoBR66zTE8X8gfWm1l9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574707587143-h4u2hu4j7i90elfv9n0f0isdvsmfkmj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574707587143:android:6bf7ee4089d6c30ac37962",
+        "android_client_info": {
+          "package_name": "com.example.foodserviceservers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574707587143-h4u2hu4j7i90elfv9n0f0isdvsmfkmj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3j8utB5p65tkUoBR66zTE8X8gfWm1l9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574707587143-h4u2hu4j7i90elfv9n0f0isdvsmfkmj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574707587143:android:99080388ab1f9106c37962",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574707587143-h4u2hu4j7i90elfv9n0f0isdvsmfkmj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3j8utB5p65tkUoBR66zTE8X8gfWm1l9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574707587143-h4u2hu4j7i90elfv9n0f0isdvsmfkmj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
